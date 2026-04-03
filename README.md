@@ -8,7 +8,7 @@ This repository hosts the working paper *"Cues of Commitment: Integration and Na
 - **H. Christoph Steinhardt** (University of Vienna)  
 
 ## Project Overview
-This paper examines whether behavioral integration cues -- signals of civic participation such as volunteering and co-hosting community events -- increase public support for immigrant naturalization in non-Western democracies. We test two competing accounts: whether the effects of integration cues depend on historically rooted civic legacies or on the national identity regime that defines who can belong.
+This paper examines whether behavioral integration cues -- signals of civic participation such as volunteering and co-hosting community events -- increase public support for immigrant naturalization. We test two competing explanations: whether the effects of integration cues depend on historically rooted civic legacies or on the national identity regime that defines who can belong.
 
 We fielded nationally quota-matched conjoint survey experiments in South Korea (N=1,999) and Taiwan (N=2,050) in 2024. The study was preregistered on the Open Science Framework.
 
@@ -16,8 +16,8 @@ We fielded nationally quota-matched conjoint survey experiments in South Korea (
 
 ## Key Findings
 - **Integration cues increase naturalization support** in both countries: volunteering raises support by 16 percentage points in South Korea and 21 in Taiwan relative to spending time alone.
-- **Cues soften identity-based penalties**, but unevenly: in Taiwan, civic participation sharply reduces penalties for Muslim and non-co-ethnic applicants; in South Korea, sizable penalties persist.
-- **The identity-regime account fits better than the civic-legacy account**: effects are consistently larger in Taiwan, where national identity is defined in more civic-territorial terms.
+- **Cues reduce identity-based penalties**, but unevenly: in Taiwan, civic participation narrows gaps for Muslim and non-co-ethnic applicants; in South Korea, sizable penalties persist.
+- **The identity regime explanation fits better than the civic legacy explanation**: effects are consistently larger in Taiwan, where national identity is defined in more civic-territorial terms.
 
 ## Repository Contents
 - `paper/`: Latest working paper (manuscript + supplementary information) 
